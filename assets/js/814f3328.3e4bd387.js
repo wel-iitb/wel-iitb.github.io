@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Homework Problems (Day-2)","permalink":"/blog/2021/06/28/hw_ins"},{"title":"Welcome","permalink":"/blog/2021/06/21/welcome"}]}')}}]);
